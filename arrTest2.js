@@ -13,11 +13,6 @@ for(let i=0 ; i < num; i++){
 
 console.log(answer);
 
-// const stringArr = input.split('\n');
-// for(let i=0 ; i < stringArr.length ; i++){
-//         console.log(stringArr[i])
-// }
-
 
 // 5
 // 1 1
